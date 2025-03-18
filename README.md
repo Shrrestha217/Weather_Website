@@ -1,6 +1,4 @@
-# Weather Website
-# React Weather App with Tailwind CSS
-
+# Weather Application using React
 This project is a weather application built using React, Tailwind CSS, and the OpenWeatherMap API. It provides current weather information, hourly forecasts, and daily forecasts, along with features like location search and geolocation.
 
 ## Features
